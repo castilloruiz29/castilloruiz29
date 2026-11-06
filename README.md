@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hola, soy Miguel Ángel 👋
 
-<!--
-**castilloruiz29/castilloruiz29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer** de Petrer (Alicante). Titulado en
+**Desarrollo de Aplicaciones Multiplataforma (DAM)** y actualmente
+cursando **Desarrollo de Aplicaciones Web (DAW)**.
 
-Here are some ideas to get you started:
+Me gusta aprender, resolver incidencias y construir software que funcione
+de principio a fin: del backend al frontend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Experiencia
+
+Durante 6 meses di soporte y mantenimiento a un sistema farmacéutico en
+**Cálculos y Procesos Farmacéuticos S.L.**: implanté reconocimiento por
+huella dactilar, un módulo de fotografía para validar medicamentos,
+optimicé los procesos de backup e integré un control de inicio de sesión
+multiusuario en distintos terminales.
+
+## 🛠️ Tecnologías
+
+| Área | Tecnologías |
+|------|-------------|
+| **Lenguajes** | Java, C#, Python, PHP, JavaScript, SQL |
+| **Backend** | Spring, Spring Boot, Hibernate, JPA, API REST, Maven |
+| **Frontend** | React, HTML5, CSS3, Bootstrap, Tailwind CSS |
+| **Móvil** | Android, Android Studio |
+| **Bases de datos** | SQL |
+| **Herramientas** | Git, Visual Studio, Eclipse, VS Code, VirtualBox |
+| **Metodologías** | Scrum |
+
+## 🌱 Ahora mismo
+
+- Cursando DAW
+- Profundizando en PHP y JavaScript
+- Buscando mi próxima oportunidad como desarrollador junior
+
+## 📫 Contacto
+
+- LinkedIn: [Miguel Ángel Castillo Ruiz](https://www.linkedin.com/in/miguel-ángel-castillo-ruiz-08581936a)
+- Email: castilloruiz29@gmail.com
